@@ -1,0 +1,17 @@
+Frame Width: 640.0
+Frame Height: 480.0
+Frame Rate: 30.0
+FOURCC: 22.0
+Format: -1.0
+Brightness: 0.0
+Contrast: 32.0
+Saturation: 75.0
+Hue: 0.0
+Gain: 0.0
+Exposure: -6.0
+Autofocus: -1.0
+Sharpness: 4.0
+Zoom: -1.0
+Pan: -1.0
+Tilt: -1.0
+Auto Exposure: 0.0
